@@ -8,13 +8,13 @@
 
 /* Begin PBXBuildFile section */
 		A48CBD24205227390063EFD7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A48CBD23205227390063EFD7 /* AppDelegate.m */; };
-		A48CBD27205227390063EFD7 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A48CBD26205227390063EFD7 /* ViewController.m */; };
-		A48CBD2A205227390063EFD7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A48CBD28205227390063EFD7 /* Main.storyboard */; };
 		A48CBD2C205227390063EFD7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A48CBD2B205227390063EFD7 /* Assets.xcassets */; };
-		A48CBD2F205227390063EFD7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A48CBD2D205227390063EFD7 /* LaunchScreen.storyboard */; };
 		A48CBD32205227390063EFD7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A48CBD31205227390063EFD7 /* main.m */; };
 		A48CBD3C205227390063EFD7 /* CAKeyframeAnimationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A48CBD3B205227390063EFD7 /* CAKeyframeAnimationTests.m */; };
 		A48CBD47205227390063EFD7 /* CAKeyframeAnimationUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = A48CBD46205227390063EFD7 /* CAKeyframeAnimationUITests.m */; };
+		A48CBD562052277A0063EFD7 /* CAKeyFAnimationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A48CBD552052277A0063EFD7 /* CAKeyFAnimationViewController.m */; };
+		A48CBD58205229B90063EFD7 /* 123.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A48CBD57205229B90063EFD7 /* 123.jpg */; };
+		A48CBD5C205232CA0063EFD7 /* 购物车.png in Resources */ = {isa = PBXBuildFile; fileRef = A48CBD5B205232CA0063EFD7 /* 购物车.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,11 +38,7 @@
 		A48CBD1F205227390063EFD7 /* CAKeyframeAnimation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CAKeyframeAnimation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A48CBD22205227390063EFD7 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		A48CBD23205227390063EFD7 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		A48CBD25205227390063EFD7 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		A48CBD26205227390063EFD7 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		A48CBD29205227390063EFD7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A48CBD2B205227390063EFD7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		A48CBD2E205227390063EFD7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A48CBD30205227390063EFD7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A48CBD31205227390063EFD7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		A48CBD37205227390063EFD7 /* CAKeyframeAnimationTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CAKeyframeAnimationTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -51,6 +47,10 @@
 		A48CBD42205227390063EFD7 /* CAKeyframeAnimationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CAKeyframeAnimationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A48CBD46205227390063EFD7 /* CAKeyframeAnimationUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CAKeyframeAnimationUITests.m; sourceTree = "<group>"; };
 		A48CBD48205227390063EFD7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A48CBD542052277A0063EFD7 /* CAKeyFAnimationViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CAKeyFAnimationViewController.h; sourceTree = "<group>"; };
+		A48CBD552052277A0063EFD7 /* CAKeyFAnimationViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CAKeyFAnimationViewController.m; sourceTree = "<group>"; };
+		A48CBD57205229B90063EFD7 /* 123.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 123.jpg; sourceTree = "<group>"; };
+		A48CBD5B205232CA0063EFD7 /* 购物车.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "购物车.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,13 +101,13 @@
 		A48CBD21205227390063EFD7 /* CAKeyframeAnimation */ = {
 			isa = PBXGroup;
 			children = (
+				A48CBD57205229B90063EFD7 /* 123.jpg */,
+				A48CBD5B205232CA0063EFD7 /* 购物车.png */,
 				A48CBD22205227390063EFD7 /* AppDelegate.h */,
 				A48CBD23205227390063EFD7 /* AppDelegate.m */,
-				A48CBD25205227390063EFD7 /* ViewController.h */,
-				A48CBD26205227390063EFD7 /* ViewController.m */,
-				A48CBD28205227390063EFD7 /* Main.storyboard */,
+				A48CBD542052277A0063EFD7 /* CAKeyFAnimationViewController.h */,
+				A48CBD552052277A0063EFD7 /* CAKeyFAnimationViewController.m */,
 				A48CBD2B205227390063EFD7 /* Assets.xcassets */,
-				A48CBD2D205227390063EFD7 /* LaunchScreen.storyboard */,
 				A48CBD30205227390063EFD7 /* Info.plist */,
 				A48CBD31205227390063EFD7 /* main.m */,
 			);
@@ -238,9 +238,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A48CBD2F205227390063EFD7 /* LaunchScreen.storyboard in Resources */,
+				A48CBD58205229B90063EFD7 /* 123.jpg in Resources */,
 				A48CBD2C205227390063EFD7 /* Assets.xcassets in Resources */,
-				A48CBD2A205227390063EFD7 /* Main.storyboard in Resources */,
+				A48CBD5C205232CA0063EFD7 /* 购物车.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -265,7 +265,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A48CBD27205227390063EFD7 /* ViewController.m in Sources */,
+				A48CBD562052277A0063EFD7 /* CAKeyFAnimationViewController.m in Sources */,
 				A48CBD32205227390063EFD7 /* main.m in Sources */,
 				A48CBD24205227390063EFD7 /* AppDelegate.m in Sources */,
 			);
@@ -301,25 +301,6 @@
 			targetProxy = A48CBD43205227390063EFD7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
-
-/* Begin PBXVariantGroup section */
-		A48CBD28205227390063EFD7 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				A48CBD29205227390063EFD7 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		A48CBD2D205227390063EFD7 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				A48CBD2E205227390063EFD7 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		A48CBD49205227390063EFD7 /* Debug */ = {
@@ -431,6 +412,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = M5QHQ4M8Q3;
 				INFOPLIST_FILE = CAKeyframeAnimation/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.delete.CAKeyframeAnimation;
@@ -444,6 +426,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = M5QHQ4M8Q3;
 				INFOPLIST_FILE = CAKeyframeAnimation/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.delete.CAKeyframeAnimation;
